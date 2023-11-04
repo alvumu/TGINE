@@ -3,3 +3,5 @@ spanish_firstname.lst:person_first
 surname.lst:surname
 month.lst:date:month
 day.lst:date:day
+moneyIcon:money:icon
+moneyName:money:name
